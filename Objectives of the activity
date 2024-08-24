@@ -1,0 +1,5 @@
+A console program that will perform the following:
+user input of the pieces of apple,
+user input of the total price of the apple(s),
+printing the the total price,
+and convert the total price into a integer then display the value and the converted price. 
